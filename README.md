@@ -30,13 +30,4 @@ A modern **Job Portal Web Application** that connects job seekers with employers
 - **Authentication:** JWT / OAuth  
 - **Other Tools:** Redux / Context API, AWS S3 / Firebase
 
-## 📂 Project Structure
-job-portal/
-│── client/ # Frontend (React/Next.js)
-│── server/ # Backend (Node/Express)
-│── config/ # Config files (DB, Auth, etc.)
-│── models/ # Database models
-│── routes/ # API routes
-│── controllers/ # Business logic
-│── public/ # Static assets
-│── README.md # Project documentation
+ 
